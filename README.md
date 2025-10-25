@@ -36,14 +36,12 @@ Welcome to my GitHub profile! I'm a dedicated **Java Full Stack Developer** with
 ---
 
 
+Absolutely! Here's the updated Connect with Me section using clickable social media icons via Shields.io badges — perfect for your GitHub profile README.md:
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- 📧 Email: your.email@example.com
 
----
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
-Thanks for visiting! I'm excited to keep growing and sharing my journey 💡
 
-
-Let me know if you'd like to add a DevOps roadmap, certifications you're pursuing, or showcase specific projects.
+
