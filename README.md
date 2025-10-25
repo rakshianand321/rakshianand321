@@ -25,9 +25,11 @@ Welcome to my GitHub profile! I'm a dedicated **Java Full Stack Developer** with
 
 
 ## 📈 GitHub Stats
-![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshith&show_icons=true&theme=tokyonight)
+![Rakshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshith&show_icons=true&theme=tokyonight)
 
 
+## 📈 GitHub Stats
+![Rakshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshith&show_icons=true&theme=tokyonight)
 
 
 ## 🧠 Top Projects
