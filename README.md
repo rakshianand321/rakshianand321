@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a dedicated **Java Full Stack Developer** with a growing interest in **DevOps** and cloud technologies 🌐.
 
 ## 💼 About Me
-- 💻 Experienced in building robust web applications using **Java**, **Spring Boot**, **Hibernate**, **JavaScript**,
+- 💻 Experienced in building applications using **Java**, **Spring Boot**, **Hibernate**, **JavaScript**,
 - 🧠 Currently learning **DevOps** tools and practices to expand my skill set
 - 🔍 Exploring **Docker**, **Kubernetes**, **Jenkins**, and **CI/CD pipelines**
 - 📍 Based in Bengaluru, India 🇮🇳
