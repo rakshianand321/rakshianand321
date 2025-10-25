@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm a dedicated **Java Full Stack Developer** with
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-## 📈 GitHub Stats
-![Rakshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshith&show_icons=true&theme=tokyonight)
-
 
 ## 📈 GitHub Stats
 ![Rakshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakshith&show_icons=true&theme=tokyonight)
