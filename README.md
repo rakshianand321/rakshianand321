@@ -25,7 +25,14 @@ Welcome to my GitHub profile! I'm a dedicated **Java Full Stack Developer** with
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 📈 GitHub Stats
-![S A Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarakshith&show_icons=true&theme=tokyonight)
+![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshith&show_icons=true&theme=radical)
+
+## 🧠 Top Projects
+- [Project One](https://github.com/rakshith/project-one): A full-stack web app for managing tasks
+- [Project Two](https://github.com/rakshith/project-two): A mobile app for tracking fitness goals
+
+---
+
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
