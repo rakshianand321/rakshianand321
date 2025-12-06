@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a dedicated **Java Full Stack Developer** with
 - [Project Two](https://github.com/rakshith/project-two): A mobile app for tracking fitness goals
 
 ---
-![](https://leetcard.jacoblin.cool/rakshianand321?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/rakshianand321?ext=contest)
 
 
 Absolutely! Here's the updated Connect with Me section using clickable social media icons via Shields.io badges — perfect for your GitHub profile README.md:
